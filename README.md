@@ -1,6 +1,3 @@
 ### Hi there 👋
 
-Here are some items to get information about me:
-
-- 🔭 I’m currently working on **some projects that be useful for beginners**.
-- 👯 I’m looking to collaborate on **basic tools**.
+This is my personal account, whatever I want I share it. I have algorithmic intelligence so I can quickly learn about software. I'm currently trying to learn C, Javascript and Typescript.
